@@ -9,3 +9,9 @@
    1. kansas airport
    2. terminal
 3. chicago airport  
+* Pubs
+* Friends
+   * beers
+   * music
+   * beaches
+
