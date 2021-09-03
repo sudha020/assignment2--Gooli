@@ -6,6 +6,6 @@
 # section on ordered and unordered list
 1. maryville
 2. kansas
-  1. kansas airport
-  2. terminal
+   1. kansas airport
+   2. terminal
 3. chicago airport  
