@@ -16,4 +16,11 @@
    * beaches
 **[linkAboutMe.md](AboutMe.md)**
 ---
-# Section for creating table 
+# creating a table about food/drinks
+
+|mandatory|fav1       |fav2      |fav3|
+|:-------:| :----:    |:----:    |:----:|
+|food     |dum biryani|crushers  |fruits|
+|location |guntur     |vijayawada|rentachintala|
+|type     |spicy      |sweety    |tasty|
+|amount   |30-40      |20-40     |10-20|
