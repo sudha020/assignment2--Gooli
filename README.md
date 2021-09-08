@@ -27,4 +27,8 @@ the following table is to tell about data my fav food and drinks ,locations wher
 |type     |spicy      |sweety    |tasty|
 |amount   |30-40      |20-40     |10-20|
 ---
-# 
+# Quotes section
+>To a great mind,nothing is little.
+>Author:*Sherlock Holmes*
+>Every fairytale needs a good old-fashioned villain.
+>Author:*Moriarty*
