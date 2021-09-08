@@ -32,3 +32,18 @@ the following table is to tell about data my fav food and drinks ,locations wher
 >Author:*Sherlock Holmes* <br>
 >Every fairytale needs a good old-fashioned villain.
 >Author:*Moriarty*
+***
+# New section of algorithm and code fencing
+>The word algebra is also used in certain specialized ways. A special kind of mathematical object in abstract algebra is called an "algebra", and the word is used, for example, in the phrases linear algebra and algebraic topology.<https://en.wikipedia.org/wiki/Algebra>
+```
+long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+}
+```
+quick link to code: <https://cp-algorithms.com/algebra/binary-exp.html>
