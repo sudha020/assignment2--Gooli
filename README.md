@@ -18,9 +18,13 @@
 ---
 # creating a table about food/drinks
 
+Introduction:
+the following table is to tell about data my fav food and drinks ,locations where they found ,amout to be paid
 |mandatory|fav1       |fav2      |fav3|
 |:-------:| :----:    |:----:    |:----:|
 |food     |dum biryani|crushers  |fruits|
 |location |guntur     |vijayawada|rentachintala|
 |type     |spicy      |sweety    |tasty|
 |amount   |30-40      |20-40     |10-20|
+---
+# 
