@@ -29,6 +29,6 @@ the following table is to tell about data my fav food and drinks ,locations wher
 ---
 # Quotes section
 >To a great mind,nothing is little.
->Author:*Sherlock Holmes*
+>Author:*Sherlock Holmes* <br>
 >Every fairytale needs a good old-fashioned villain.
 >Author:*Moriarty*
